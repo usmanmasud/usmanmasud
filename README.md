@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @usmanmasud
 - 👀 I’m interested in Software Develpoment and AI
-- 🌱 I’m currently learning Full Stack Development
-- 🌱 I’m currently Studying Software Engineering at Bayero University Kano Nigeria
+- 🌱 I am an experienced developer using react and next js
+- 🌱 I’mSoftware Engineering student at Bayero University Kano Nigeria
 - 💞️ I’m looking to collaborate on frontend web application
 - 📫 How to reach me omasud99@gmail.com
 - 😄 Pronouns: Software Developer/Web Developer
